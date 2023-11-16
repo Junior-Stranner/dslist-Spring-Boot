@@ -16,7 +16,7 @@ import com.jujubaprojects.dslist.Service.GameService;
 @RestController
 @RequestMapping(value = "/lists")
 public class GameListController {
-    
+     
     @Autowired
 	private GameListService gameListService;
 
