@@ -4,7 +4,7 @@ import com.jujubaprojects.dslist.Projections.GameMinProjection;
 import com.jujubaprojects.dslist.entities.Game;
 
 public class GameMinDTO {
-    	private Long id;
+    private Long id;
 	private String title;
 	private Integer year;
 	private String imgUrl;
